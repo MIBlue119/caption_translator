@@ -1,6 +1,7 @@
 # Caption Translator
 
 - A caption translator package based on open ai api
+- demo at streamlit: https://miblue119-caption-translator-streamlit-app-7s6eqn.streamlit.app/
 
 ## Usage
 
