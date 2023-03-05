@@ -12,7 +12,9 @@
     - `--file_path`: Set the transcript file path. Current only support `.vtt` and `.srt` format
   - Options
     - `--text_engine`: Set the open ai text engine. Default text engine is `gpt-3.5-turbo`
-    - `--language`: Set the target translated language. Default language is `japanese
+    - `--language`: Set the target translated language. Default language is `japanese`
+      - support  other language `korean` / `german` / `traditional chinese` / `simplified chinese` / `french /`dutch
+        - please see the LANGUAGES definition at [caption_translator/utils.py](./caption_translator/utils.py)
     - `--test`: Whether to test part of content
     - `--test_num`: How many number of contents do you want to summarize?
 - Example
