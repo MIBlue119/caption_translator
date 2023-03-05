@@ -1,0 +1,5 @@
+{
+  "python.condaPath": "/Users/weirenlan/miniconda3", // replace with your conda path
+  "python.defaultInterpreterPath": "/Users/weirenlan/miniconda3/envs/text_adventure/bin/python", // replace with your environment name
+  "python.terminal.activateEnvironment": true
+}
